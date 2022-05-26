@@ -4,6 +4,9 @@
     { "id": 2, "title": "Post 12" },
     { "id": 3, "title": "Post 13" }
   ],
+  "drivers": [
+    { "id": 1, "name": "Ан***он С. О.", "iin": 941026300585, "dateOfBirth": "26.10.1994", "address": "Мынбаева 151" },
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
